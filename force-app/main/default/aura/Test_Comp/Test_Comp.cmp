@@ -3,7 +3,7 @@
   <!-- Optional HTML markup -->
   <div class="container"> 
     Hello world!
-    Hi there changing this from GitHub
+    Hello World from GitHub!!
     <!-- Other components -->
   </div>
 </aura:component>
